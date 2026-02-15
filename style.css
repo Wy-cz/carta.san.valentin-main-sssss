@@ -23,6 +23,7 @@ body {
     flex-direction: column;
     min-height: 100vh; /* 🔥 cambiar height por min-height */
     padding-top: 120px; /* 🔥 esto lo baja */
+background-color: black;
 }
 
 h1 {
@@ -30,7 +31,7 @@ h1 {
     text-align: center;
     font-size: 60px;
     margin-bottom: 50px;
-    color: #444;
+    color:white;
 }
 
 .contenedor {
